@@ -1,4 +1,10 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
+github.com/0xBahamoot/go-libp2p-natt v0.0.6 h1:YZSOn4iUyQUKzM3zvg+Pmm0QgB9IFaxTXzTL7HUPDsk=
+github.com/0xBahamoot/go-libp2p-natt v0.0.6/go.mod h1:dL1C3twtu5g+izMW7MeRCDJrRkb5lgfDS76B89rlocE=
+github.com/0xBahamoot/go-libp2p-natt v0.0.7 h1:uzopwjAoJoSvuF+dWDUVeolknOdBR9dXGJG//VtdZY8=
+github.com/0xBahamoot/go-libp2p-natt v0.0.7/go.mod h1:BEB9dhVZ7NFxLjp7CB0ZFqSaGS9P3t08ZZqDXHVoYFk=
+github.com/0xBahamoot/go-libp2p-natt v0.0.8 h1:e7aMen1GlWzXsu6fEzZwQ/+IJmotp1uz2vcQzz8sJDU=
+github.com/0xBahamoot/go-libp2p-natt v0.0.8/go.mod h1:BEB9dhVZ7NFxLjp7CB0ZFqSaGS9P3t08ZZqDXHVoYFk=
 github.com/0xBahamoot/go-libp2p-natt v1.0.0 h1:nNzzczbwAybll8e/6UAAz7q4ciFeYcT6yFQZCGE5+pQ=
 github.com/0xBahamoot/go-libp2p-natt v1.0.0/go.mod h1:dL1C3twtu5g+izMW7MeRCDJrRkb5lgfDS76B89rlocE=
 github.com/0xBahamoot/go-libp2p-natt v1.0.1 h1:4EGusMSZJyKVATbk39QUYD8AQ+OVM54If322P/czajw=
@@ -11,6 +17,8 @@ github.com/0xBahamoot/go-libp2p-natt v1.0.4 h1:GwzFsHrWW1yA0Vf7wI9oWRCDQ2P1LDbxL
 github.com/0xBahamoot/go-libp2p-natt v1.0.4/go.mod h1:dL1C3twtu5g+izMW7MeRCDJrRkb5lgfDS76B89rlocE=
 github.com/0xBahamoot/go-libp2p-natt v1.0.5 h1:69yurnDTU75RbxZ6galXt4PuixR2WcA1UIySFsf4vAI=
 github.com/0xBahamoot/go-libp2p-natt v1.0.5/go.mod h1:dL1C3twtu5g+izMW7MeRCDJrRkb5lgfDS76B89rlocE=
+github.com/0xBahamoot/go-libp2p-natt v1.0.6 h1:WT4e3KbWuSHVEivygUToCZWkywhgcu/pb4UhdSsXLjw=
+github.com/0xBahamoot/go-libp2p-natt v1.0.6/go.mod h1:dL1C3twtu5g+izMW7MeRCDJrRkb5lgfDS76B89rlocE=
 github.com/AndreasBriese/bbloom v0.0.0-20180913140656-343706a395b7/go.mod h1:bOvUY6CB00SOBii9/FifXqc0awNKxLFCL/+pkDPuyl8=
 github.com/AndreasBriese/bbloom v0.0.0-20190306092124-e2d15f34fcf9/go.mod h1:bOvUY6CB00SOBii9/FifXqc0awNKxLFCL/+pkDPuyl8=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
@@ -226,6 +234,7 @@ github.com/libp2p/go-libp2p-testing v0.0.2/go.mod h1:gvchhf3FQOtBdr+eFUABet5a4MB
 github.com/libp2p/go-libp2p-testing v0.0.3/go.mod h1:gvchhf3FQOtBdr+eFUABet5a4MBLK8jM3V4Zghvmi+E=
 github.com/libp2p/go-libp2p-testing v0.0.4/go.mod h1:gvchhf3FQOtBdr+eFUABet5a4MBLK8jM3V4Zghvmi+E=
 github.com/libp2p/go-libp2p-testing v0.1.0/go.mod h1:xaZWMJrPUM5GlDBxCeGUi7kI4eqnjVyavGroI2nxEM0=
+github.com/libp2p/go-libp2p-testing v0.1.1 h1:U03z3HnGI7Ni8Xx6ONVZvUFOAzWYmolWf5W5jAOPNmU=
 github.com/libp2p/go-libp2p-testing v0.1.1/go.mod h1:xaZWMJrPUM5GlDBxCeGUi7kI4eqnjVyavGroI2nxEM0=
 github.com/libp2p/go-libp2p-tls v0.1.3 h1:twKMhMu44jQO+HgQK9X8NHO5HkeJu2QbhLzLJpa8oNM=
 github.com/libp2p/go-libp2p-tls v0.1.3/go.mod h1:wZfuewxOndz5RTnCAxFliGjvYSDA40sKitV4c50uI1M=

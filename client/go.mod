@@ -2,4 +2,8 @@ module main
 
 go 1.14
 
-require github.com/0xBahamoot/go-libp2p-natt v1.0.6
+require (
+	github.com/0xBahamoot/go-libp2p-natt v0.0.8
+	github.com/libp2p/go-libp2p-core v0.5.3 // indirect
+	github.com/libp2p/go-libp2p-testing v0.1.1 // indirect
+)
