@@ -12,11 +12,16 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
+	ticker := time.NewTicker(5 * time.Second)
 	go func() {
-		time.Sleep(20 * time.Second)
-		fmt.Println(h.GetNATType())
-		fmt.Println(h.GetHost().Addrs())
-		fmt.Println(h.GetBroadcastAddrInfo())
+		for {
+			select {
+			case <-ticker.C:
+				fmt.Println(h.GetNATType())
+				fmt.Println(h.GetHost().Addrs())
+				fmt.Println(h.GetBroadcastAddrInfo())
+			}
+		}
 	}()
 	select {}
 }
