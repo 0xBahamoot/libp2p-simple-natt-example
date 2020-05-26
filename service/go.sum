@@ -5,6 +5,8 @@ github.com/0xBahamoot/go-libp2p-natt v0.0.7 h1:uzopwjAoJoSvuF+dWDUVeolknOdBR9dXG
 github.com/0xBahamoot/go-libp2p-natt v0.0.7/go.mod h1:BEB9dhVZ7NFxLjp7CB0ZFqSaGS9P3t08ZZqDXHVoYFk=
 github.com/0xBahamoot/go-libp2p-natt v0.0.8 h1:e7aMen1GlWzXsu6fEzZwQ/+IJmotp1uz2vcQzz8sJDU=
 github.com/0xBahamoot/go-libp2p-natt v0.0.8/go.mod h1:BEB9dhVZ7NFxLjp7CB0ZFqSaGS9P3t08ZZqDXHVoYFk=
+github.com/0xBahamoot/go-libp2p-natt v0.0.9 h1:SbOhCXIPNei0VV+5GCWS/rS204DBcDABiHt373r0pro=
+github.com/0xBahamoot/go-libp2p-natt v0.0.9/go.mod h1:7gG+ForGYVwZmMLaguwExMXgqit2m5chO/EsnWKblAU=
 github.com/0xBahamoot/go-libp2p-natt v1.0.0 h1:nNzzczbwAybll8e/6UAAz7q4ciFeYcT6yFQZCGE5+pQ=
 github.com/0xBahamoot/go-libp2p-natt v1.0.0/go.mod h1:dL1C3twtu5g+izMW7MeRCDJrRkb5lgfDS76B89rlocE=
 github.com/0xBahamoot/go-libp2p-natt v1.0.1 h1:4EGusMSZJyKVATbk39QUYD8AQ+OVM54If322P/czajw=
